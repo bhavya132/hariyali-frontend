@@ -17,7 +17,7 @@ Remember the craze, when the Pokemon Go first launched for our mobiles. We spend
 - Backend: FastAPI
 - Frontend: Flutter
 - Running on: Azure App Service
-- Media Storage: Google Cloud Storage
+- Media Storage: Azure Blob Storage
 - Database: Cockroach DB
 - Deployment : GitHub Actions
 - APIs: Plant.id, Azure Cognitive Services
